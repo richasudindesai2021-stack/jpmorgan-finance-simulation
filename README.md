@@ -6,12 +6,6 @@ Strategic financial analysis and business simulation via Forage’s JPMorgan Cha
  **Certificate:** [View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/JPMorgan%20Chase%20Corporate/dJgTXj3M5zcSY79Hn_JPMorgan%20Chase%20&%20Co._AEghpFxdrPybX4NzB_1717687067996_completion_certificate.pdf)
 
 ---
-Here is a clean README section you can copy paste directly for your J P Morgan project.
-I have not used any dashes or emojis.
-
----
-
-# J P Morgan Global Finance and Business Management Simulation
 
 ## Overview
 
